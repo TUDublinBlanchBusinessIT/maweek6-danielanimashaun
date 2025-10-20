@@ -26,7 +26,7 @@ export default function PersonalInfo({screenstyle}) {
   );
 }
 
-const styles = StyleSheet.create({ 
+const styles = StyleSheet.create({
   label: {
     flexDirection:"row",
     fontSize: 24,
@@ -54,5 +54,5 @@ const styles = StyleSheet.create({
     backgroundColor: '#0569FF',
     borderColor: '#0569FF'
   }
-  
+ 
 });
